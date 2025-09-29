@@ -10,7 +10,7 @@ This project aims to create a corrected edition of the Sutta Nipata from the Pal
 - **Authors**: Dines Andersen and Helmer Smith (1913)
 
 ### Status
-**Work in Progress** - Currently finding and fixing OCR errors
+**Work in Progress** - Currently finding and fixing transcription errors
 
 ### How to use
 - `original/` - Unedited GRETIL source file
