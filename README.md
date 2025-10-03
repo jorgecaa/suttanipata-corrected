@@ -9,6 +9,9 @@ This project aims to proofread and fix the edition of the Sutta Nipata from the 
 - **Availability**: GRETIL under Creative Commons Attribution-ShareAlike 4.0
 - **Authors**: Dines Andersen and Helmer Smith (1913)
 
+### Reference sources (in mss/ folder)
+- Three print editions of the PTS Sutta Nipata.
+
 ### Status
 **Work in Progress** - Currently finding and fixing transcription errors
 
