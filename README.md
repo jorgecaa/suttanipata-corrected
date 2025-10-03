@@ -2,7 +2,7 @@
 
 ## About this project
 
-This project aims to create a corrected edition of the Sutta Nipata from the Pali digital transcription available on GRETIL.
+This project aims to proofread and fix the edition of the Sutta Nipata from the Pali digital transcription available on GRETIL.
 
 ### Source base
 - **Original**: Transcription by Dhammakaya Foundation (1989-1996) 
