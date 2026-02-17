@@ -18,8 +18,7 @@ This project aims to proofread and fix the edition of the Sutta Nipata from the 
 ### How to use
 - `original/` - Unedited GRETIL source file
 - `working/` - Edited, in-work version
-- `docs/` - Log of corrections made
-- `export/` - Clean versions in various formats
+- `mss/` - Reference sources (three PTS Sutta Nipata print editions)
 
 ### Contributing
 If you find errors or would like to suggest corrections, please open an issue or submit a pull request.
